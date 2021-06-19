@@ -4,7 +4,7 @@
 
 # What is this repository for? 
 
-This course has been taught by Prof. Dr. Fatih Erdoğan SEVİLGEN at Gebze Technical University in 2021. These are the homeworks of the course.
+This course has been taught by Prof. Dr. Fatih Erdoğan SEVİLGEN at Gebze Technical University in 2021 Spring Semester. These are the homeworks of the course.
 
 ## Installation
 
