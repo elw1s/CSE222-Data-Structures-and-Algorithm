@@ -16,4 +16,4 @@ $make
 
 ## Copyright
 
-These files have been published for other students to have an idea for their homework/projects. Do not use these codes as homework.
+These files have been published for other students to have an idea for their homework/projects. Do not use these codes as your homework.
